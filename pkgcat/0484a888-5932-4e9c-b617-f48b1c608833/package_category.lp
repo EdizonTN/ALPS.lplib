@@ -1,0 +1,10 @@
+(librepcb_package_category 0484a888-5932-4e9c-b617-f48b1c608833
+ (name "Encoders")
+ (description "")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2021-07-11T23:06:07Z)
+ (deprecated false)
+ (parent c0f16db0-f0db-4121-ab12-b4570ff79738)
+)

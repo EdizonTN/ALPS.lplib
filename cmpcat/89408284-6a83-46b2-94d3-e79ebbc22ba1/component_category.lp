@@ -1,0 +1,10 @@
+(librepcb_component_category 89408284-6a83-46b2-94d3-e79ebbc22ba1
+ (name "Encoders")
+ (description "Incremental Encoders")
+ (keywords "encoder")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2021-07-11T22:07:43Z)
+ (deprecated false)
+ (parent e29f0cb3-ef6d-4203-b854-d75150cbae0b)
+)

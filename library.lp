@@ -1,0 +1,10 @@
+(librepcb_library 05e7ae8b-5fc5-4173-959b-05829d3bcdc2
+ (name "ALPS")
+ (description "This is an unofficial testing LibrePCB library. Alps Electric Co., Ltd.")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2021-07-11T21:53:55Z)
+ (deprecated false)
+ (url "")
+)
